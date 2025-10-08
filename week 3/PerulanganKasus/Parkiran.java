@@ -34,7 +34,7 @@ public class Parkiran {
     }
     
     public void tampilkanRekapFinal() {
-        System.out.println("\n=== REKAP FINAL ===");
+        System.out.println("Rekapitulasi Akhir Parkiran:");
         System.out.println("Total mobil: " + totalMobil);
         System.out.println("Total motor: " + totalMotor);
         System.out.println("Total biaya parkir: Rp " + totalBiaya);
